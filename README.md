@@ -11,3 +11,6 @@ Our Website Is my hayat project which demonstrates my abilities in building a co
 - [Organization Github](https://github.com/orgs/3rood-project/repositories)
  
 - [Masterpiese-Presentation.pptx](https://github.com/OsamaDasooky/materpiese-project/files/10302737/masterpiese.pptx)
+
+- [master documentation.docx](https://github.com/OsamaDasooky/materpiese-project/files/10303144/master.documentation.docx)
+
