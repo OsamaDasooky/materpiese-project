@@ -1,7 +1,7 @@
 # materpiese-project
 
 
-Our Website Is my hayat project which demonstrates my abilities in building a completely responsive front-end and backend of a charity website using popular tools such as HTML5, CSS3, Bootstrap,Laravel,PHP , Javascript and mySql.
+Our Website Is my hayat project which demonstrates my abilities in building a completely responsive front-end and backend  using popular tools such as HTML5, CSS3, Bootstrap,Laravel,PHP , Javascript and mySql.
 
 
 - [WireFrame&Mockups]( https://www.figma.com/file/kkuS6g5tYuwjL4fW8vTeM6/masterpiece-project?node-id=0%3A1&t=X9YnKXKLwYpbtvv3-1)
